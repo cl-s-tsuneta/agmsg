@@ -74,4 +74,5 @@ directly-invokable commands; `scripts/drivers/<axis>/` holds axis drivers and
 - [scripts/delivery.sh](scripts/delivery.sh): get/set the delivery mode.
 - [scripts/spawn.sh](scripts/spawn.sh) / [scripts/despawn.sh](scripts/despawn.sh): launch / tear down a peer agent.
 - [scripts/history.sh](scripts/history.sh): replay a room's history.
+- [scripts/search.sh](scripts/search.sh): search a room's past messages by keyword.
 - [SKILL.md](SKILL.md): the agent-facing skill definition (full command reference).

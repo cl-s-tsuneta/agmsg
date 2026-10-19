@@ -133,6 +133,7 @@ must track the same resolved project); direct shell invocations and
 | `send.sh` | Insert a message into the database |
 | `inbox.sh` | Show unread messages and mark as read |
 | `history.sh` | Show message history (newest first, displayed oldest first) |
+| `search.sh` | Search past messages by keyword (literal substring; newest matches first, displayed oldest first) |
 | `join.sh` | Add agent to team (create team if needed) |
 | `leave.sh` | Remove agent from team (delete team if empty) |
 | `team.sh` | List team members |

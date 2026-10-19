@@ -62,6 +62,9 @@ Do NOT manually edit config files. Always use join.sh.
 # Message history
 ~/.agents/skills/agmsg/scripts/history.sh <team> [agent_id] [limit]
 
+# Search past messages by keyword (substring match; newest matches, oldest first)
+~/.agents/skills/agmsg/scripts/search.sh <team> <keyword> [agent_id] [limit]
+
 # List team members
 ~/.agents/skills/agmsg/scripts/team.sh <team>
 
