@@ -3,7 +3,8 @@ db/
 teams/
 .DS_Store
 .codex/
-.claude/
+.claude/*
+!.claude/skills/
 .opencode/
 
 /.omc/
