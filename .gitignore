@@ -5,6 +5,7 @@ teams/
 .codex/
 .claude/*
 !.claude/skills/
+!.claude/settings.json
 .opencode/
 
 /.omc/
